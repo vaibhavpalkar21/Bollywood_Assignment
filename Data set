@@ -1,0 +1,11 @@
+Bollywood dataset.
+
+It contains the variables:
+Movie: Movie name
+Lead: Lead actor name
+Rdate: Release date
+Ocollection: Opening collection on release day (in crore INR)
+Wcollection: Weekend collection (in crore INR)
+Fwcollection: First week collection (in crore INR)
+Tcollection: Total collection (in crore INR)
+Verdict: Performance status (based on various factors such as cost, genre, etc.)
